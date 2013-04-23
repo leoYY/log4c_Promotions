@@ -1,0 +1,4 @@
+20130402 16:06:18.581 DEBUG    six13log.log.app.application3- Debugging app 3, direct log call
+20130402 16:06:18.582 DEBUG    six13log.log.app.application3- Debugging application number THREE with extra user location
+20130402 16:06:18.582 ERROR    six13log.log.app.application3- some error from app at line 119 in file application_3.c with NULL for extra user location info
+20130402 16:06:18.582 DEBUG    six13log.log.app.application3- Debug app3 wrapper define

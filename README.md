@@ -19,3 +19,5 @@ some code....
 LOG_UINIT()
 
 WARNING_LOG(_fmt_,arg...),DEBUG_LOG(_fmt_,arg...),FATAL_LOG(_fmt_,arg...),NOTICE_LOG(_fmt_,arg...)
+
+By using macro definitions as above, \_\_FILE\_\_ and \_\_LINE\_\_ will be found in log file.
